@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juliansitemba
 - 👀 I’m interested in data science, data analytis and tech roles
-- 🌱 I’m currently learning SQL on Datacamp and Udemy
+- 🌱 I’m skilled in SQL, Python, R, Excel and Tableau
 - 💞️ I’m looking to collaborate on projects that exploit data to draw insights and creative business solutions
 - 📫 How to reach me juliansitemba@gmail.com
 
